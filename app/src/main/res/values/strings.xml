@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="word_intent_key">spanish_wordKey</string>
+    <string name="word_intent_key2">english_wordKey</string>
+
+    <string name="spanishWordPlaceholder">Word</string>
+    <string name="translation_text_label">Enter translation:</string>
+    <string name="textHint">Word in English</string>
+    <string name="button_text">Check Word</string>
+</resources>
